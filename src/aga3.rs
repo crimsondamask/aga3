@@ -7,7 +7,7 @@ pub const R_: f32 = 10.7316;
 pub const N5: f32 = 459.67;
 pub const BASE_P: f32 = 14.73;
 pub const BASE_T: f32 = 60.0;
-pub const C_D: f32 = 0.6;
+pub const C_D: f32 = 0.62;
 
 pub struct FlowingParams {
     pub pressure_f: f32,
